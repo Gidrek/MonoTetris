@@ -2,6 +2,8 @@
 
 A simple Tetris game clone based in Microsoft XNA Examples.
 
+![](thumbnail.png)
+
 Created with [MonoGame](http://www.monogame.net/) and .net core 3.1.
 
 I used the `mgdesktopgl` template to generate the code.
